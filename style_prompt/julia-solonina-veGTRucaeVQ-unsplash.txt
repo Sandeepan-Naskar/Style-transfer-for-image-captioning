@@ -1,0 +1,1 @@
+Apply an image from daytime to nighttime
